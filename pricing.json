@@ -1,0 +1,153 @@
+{
+  "last_updated": "2026-05-15",
+  "source": "https://www.aicentralresources.com/compare/firefliesai-vs-otterai",
+  "notes": "All prices in USD. Annual billing pricing shown unless stated. Always verify current pricing on the official product websites.",
+  "tools": {
+    "fireflies_ai": {
+      "name": "Fireflies.ai",
+      "website": "https://fireflies.ai",
+      "profile": "https://www.aicentralresources.com/tool/firefliesai",
+      "billing_note": "Per seat, billed annually",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_annual_per_month": 0,
+          "storage": "800 minutes per seat",
+          "ai_summaries": "Limited",
+          "transcription": "Unlimited",
+          "seats": "Unlimited",
+          "highlights": [
+            "Basic transcription",
+            "Limited AI summaries",
+            "800 min storage per seat",
+            "Access to core integrations"
+          ],
+          "limitations": [
+            "Limited AI summaries per month",
+            "Storage caps at 800 minutes",
+            "No conversation intelligence"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_annual_per_month": 10,
+          "billing": "per seat, billed annually",
+          "storage": "Unlimited",
+          "ai_summaries": "Unlimited",
+          "highlights": [
+            "Unlimited transcription and storage",
+            "Full AI summaries",
+            "Speaker talk-time analytics",
+            "Action item detection",
+            "Integrations with Slack, Notion, CRMs"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": null,
+          "price_annual_per_month": 19,
+          "billing": "per seat, billed annually",
+          "highlights": [
+            "Everything in Pro",
+            "Conversation intelligence",
+            "Team analytics",
+            "Priority support",
+            "Custom vocabulary",
+            "Advanced integrations"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_annual_per_month": 39,
+          "billing": "per seat, billed annually",
+          "highlights": [
+            "Everything in Business",
+            "HIPAA compliance",
+            "SSO / SAML",
+            "Custom data retention",
+            "Dedicated account manager",
+            "Custom bot name"
+          ]
+        }
+      ]
+    },
+    "otter_ai": {
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "profile": "https://www.aicentralresources.com/tool/otterai",
+      "billing_note": "Per user, billed annually",
+      "special_offers": [
+        "7-day free trial on Business plan",
+        "20% student/teacher discount on Pro plans with .edu email"
+      ],
+      "plans": [
+        {
+          "name": "Basic",
+          "price_monthly": 0,
+          "price_annual_per_month": 0,
+          "transcription_minutes": 300,
+          "transcription_period": "monthly",
+          "highlights": [
+            "300 transcription minutes/month",
+            "AI meeting summaries",
+            "Real-time transcription",
+            "Basic integrations"
+          ],
+          "limitations": [
+            "300 min/month hard cap",
+            "No CRM integration",
+            "Limited import capability"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_annual_per_month": 8.33,
+          "billing": "per user, billed annually",
+          "transcription_minutes": 1200,
+          "transcription_period": "monthly",
+          "highlights": [
+            "1,200 transcription minutes/month",
+            "Advanced summary features",
+            "Import audio/video files",
+            "Custom vocabulary",
+            "AI Chat"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": null,
+          "price_annual_per_month": 19.99,
+          "billing": "per user, billed annually",
+          "transcription_minutes": 6000,
+          "transcription_period": "monthly",
+          "free_trial": "7 days",
+          "highlights": [
+            "6,000 minutes/month",
+            "Everything in Pro",
+            "Admin panel and team controls",
+            "HubSpot + Salesforce integration",
+            "Priority support"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_annual_per_month": "Custom",
+          "billing": "Contact sales",
+          "transcription_minutes": "Unlimited",
+          "highlights": [
+            "Unlimited transcription",
+            "SSO",
+            "Advanced security controls",
+            "Dedicated support",
+            "Custom integrations"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "last_updated": "2026-05-15",
+  "source": "https://www.aicentralresources.com/compare/firefliesai-vs-otterai",
+  "tools": {
+    "fireflies_ai": {
+      "name": "Fireflies.ai",
+      "website": "https://fireflies.ai",
+      "profile": "https://www.aicentralresources.com/tool/firefliesai",
+      "founded": 2016,
+      "pricing_model": "Freemium",
+      "primary_strength": "Post-meeting analytics and conversation intelligence",
+      "features": {
+        "transcription": {
+          "real_time": false,
+          "post_meeting": true,
+          "languages_supported": "100+",
+          "speaker_recognition": true,
+          "custom_vocabulary": true,
+          "accuracy_notes": "High accuracy; may vary with background noise or heavy accents"
+        },
+        "ai_summaries": {
+          "available": true,
+          "on_free_plan": false,
+          "includes_action_items": true,
+          "includes_decisions": true,
+          "includes_topics": true
+        },
+        "conversation_intelligence": {
+          "available": true,
+          "talk_time_analytics": true,
+          "sentiment_analysis": true,
+          "keyword_tracking": true,
+          "coaching_insights": true
+        },
+        "ai_chat": {
+          "available": false
+        },
+        "action_item_detection": {
+          "available": true,
+          "auto_assignment": true
+        },
+        "search": {
+          "available": true,
+          "searchable_transcripts": true
+        },
+        "bot_in_meeting": {
+          "available": true,
+          "customizable_bot_name": true,
+          "bot_can_be_excluded": true
+        },
+        "upload_audio_video": {
+          "available": true
+        },
+        "platforms": ["Web", "Desktop", "Mobile", "Chrome Extension"],
+        "compliance": {
+          "gdpr": true,
+          "hipaa": "Enterprise plan only",
+          "soc2": true
+        },
+        "team_features": {
+          "shared_meeting_notes": true,
+          "team_collaboration": true,
+          "admin_controls": "Business and above",
+          "sso": "Enterprise only"
+        }
+      }
+    },
+    "otter_ai": {
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "profile": "https://www.aicentralresources.com/tool/otterai",
+      "founded": 2016,
+      "pricing_model": "Freemium",
+      "primary_strength": "Real-time transcription and instant meeting recall",
+      "features": {
+        "transcription": {
+          "real_time": true,
+          "post_meeting": true,
+          "languages_supported": 3,
+          "languages_list": ["English", "French", "Spanish"],
+          "speaker_recognition": true,
+          "custom_vocabulary": true,
+          "accuracy_notes": "Strong real-time accuracy; may struggle with technical jargon"
+        },
+        "ai_summaries": {
+          "available": true,
+          "on_free_plan": true,
+          "includes_action_items": true,
+          "includes_decisions": true,
+          "includes_topics": true
+        },
+        "conversation_intelligence": {
+          "available": false,
+          "talk_time_analytics": false,
+          "sentiment_analysis": false,
+          "keyword_tracking": false,
+          "coaching_insights": false
+        },
+        "ai_chat": {
+          "available": true,
+          "description": "Voice-activated AI that answers questions about past meetings"
+        },
+        "action_item_detection": {
+          "available": true,
+          "auto_assignment": true,
+          "crm_push": true
+        },
+        "search": {
+          "available": true,
+          "searchable_transcripts": true
+        },
+        "bot_in_meeting": {
+          "available": true,
+          "customizable_bot_name": false,
+          "bot_can_be_excluded": false
+        },
+        "upload_audio_video": {
+          "available": true,
+          "limit_by_plan": true
+        },
+        "platforms": ["Web", "Desktop", "Mobile"],
+        "compliance": {
+          "gdpr": true,
+          "hipaa": false,
+          "soc2": true
+        },
+        "team_features": {
+          "shared_meeting_notes": true,
+          "team_collaboration": true,
+          "admin_controls": "Business and above",
+          "sso": "Enterprise only"
+        }
+      }
+    }
+  }
+}

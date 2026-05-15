@@ -1,0 +1,113 @@
+{
+  "last_updated": "2026-05-15",
+  "source": "https://www.aicentralresources.com/compare/firefliesai-vs-otterai",
+  "tools": {
+    "fireflies_ai": {
+      "name": "Fireflies.ai",
+      "profile": "https://www.aicentralresources.com/tool/firefliesai",
+      "integrations": {
+        "video_conferencing": [
+          "Zoom",
+          "Google Meet",
+          "Microsoft Teams",
+          "Webex",
+          "GoToMeeting",
+          "BlueJeans",
+          "Skype",
+          "Lifesize",
+          "Whereby"
+        ],
+        "dialers": [
+          "Dialpad",
+          "JustCall",
+          "Aircall",
+          "RingCentral",
+          "Outreach",
+          "Salesloft"
+        ],
+        "crm": [
+          "Salesforce",
+          "HubSpot",
+          "Zoho CRM",
+          "Pipedrive"
+        ],
+        "ats_recruiting": [
+          "Greenhouse",
+          "Lever",
+          "Workday"
+        ],
+        "productivity": [
+          "Slack",
+          "Notion",
+          "Asana",
+          "Trello",
+          "Monday.com",
+          "ClickUp",
+          "Linear"
+        ],
+        "storage_docs": [
+          "Google Drive",
+          "Dropbox",
+          "OneDrive"
+        ],
+        "calendar": [
+          "Google Calendar",
+          "Outlook Calendar"
+        ],
+        "automation": [
+          "Zapier",
+          "Make (Integromat)"
+        ],
+        "api": {
+          "available": true,
+          "documentation": "https://fireflies.ai/docs"
+        }
+      }
+    },
+    "otter_ai": {
+      "name": "Otter.ai",
+      "profile": "https://www.aicentralresources.com/tool/otterai",
+      "integrations": {
+        "video_conferencing": [
+          "Zoom",
+          "Google Meet",
+          "Microsoft Teams"
+        ],
+        "crm": [
+          "HubSpot (native)",
+          "Salesforce (native)"
+        ],
+        "productivity": [
+          "Slack",
+          "Notion (via export)"
+        ],
+        "storage_docs": [
+          "Dropbox",
+          "Google Drive",
+          "Google Docs"
+        ],
+        "calendar": [
+          "Google Calendar",
+          "Outlook Calendar"
+        ],
+        "automation": [
+          "Zapier"
+        ],
+        "api": {
+          "available": true,
+          "documentation": "https://otter.ai/developers"
+        }
+      }
+    }
+  },
+  "shared_integrations": [
+    "Zoom",
+    "Google Meet",
+    "Microsoft Teams",
+    "Slack",
+    "Google Calendar",
+    "Outlook Calendar",
+    "Dropbox",
+    "Zapier"
+  ]
+}
